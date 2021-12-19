@@ -29,6 +29,7 @@ bld/
 [Bb]in/
 [Oo]bj/
 [Ll]og/
+appsettings.json
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
@@ -257,6 +258,9 @@ ServiceFabricBackup/
 *.mdf
 *.ldf
 *.ndf
+
+# SQLite Server files
+*.db
 
 # Business Intelligence projects
 *.rdl.data
